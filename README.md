@@ -3,12 +3,12 @@ Analyzing delivery delays using SQL and Power BI
 
 End-to-end Data Analysis Project using SQL and Power BI.
 
-📌 Project Overview
+📌 **Project Overview**
 
 This project analyzes logistics delivery data to identify the key factors causing delivery delays.
 The goal is to understand how weather conditions, traffic status, waiting time, and inventory levels impact delivery performance and to derive insights that can help improve logistics efficiency.
 
-🎯 Problem Statement
+🎯** Problem Statement**
 
 Delivery delays negatively impact customer satisfaction and operational efficiency.
 This project aims to answer the following questions:
